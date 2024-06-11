@@ -1,0 +1,48 @@
+_repo: Ketun-seikkailusta-harakan-vankeuteen-b-Elaintarinoita_73697
+_version: 0.0.1
+alternative_title: De Goupil à Margot. Finnish
+contributor:
+  translator:
+    agent_name: Airila, Miili
+    aliases:
+    - -i -a
+    - -i-a
+    - -a, -i
+    birthdate: 1878
+    deathdate: 1929
+    gutenberg_agent_id: '57181'
+    url: http://www.gutenberg.org/2009/agents/57181
+creator:
+  author:
+    agent_name: Pergaud, Louis
+    birthdate: 1882
+    deathdate: 1915
+    gutenberg_agent_id: '5501'
+    url: http://www.gutenberg.org/2009/agents/5501
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_Pergaud
+    - https://fr.wikipedia.org/wiki/Louis_Pergaud
+description: ''
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73697'
+language: fi
+pgterms:marc905: 20240322122158pergaud
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Short stories, French -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Alkusana -- Mikko Repolaisen surullinen seikkailu -- Maan alla --
+  Kaamea tie vapauteen -- Kultarinnan kuolema -- Kaniinien salakapina -- Uteliaan
+  palkka -- Kuolemaa pakoon -- Hölpän vankeus.
+title: 'Ketun seikkailusta harakan vankeuteen : $b Eläintarinoita'
+url: http://www.gutenberg.org/ebooks/73697
